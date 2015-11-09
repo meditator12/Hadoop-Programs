@@ -1,0 +1,6 @@
+hadoop jar /root/java-files/sms.jar SmsDriver -files /root/DliveryStatusCodes.txt /root/DeliveryDetails.txt /user/root/UserDetails.txt /user/root/DeliveryStatusCodes.txt /user/root/outs2
+
+
+1st arg is in linux, rest 2 in hdfs
+
+
